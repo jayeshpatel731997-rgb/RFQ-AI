@@ -14,8 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "RFQ Quote Comparison AI",
-  description: "Compare supplier quote PDFs side by side.",
+  title: "RFQ AI | Procurement Case Study",
+  description:
+    "A procurement case study showing how RFQ AI compares supplier quotes, exposes risk, and shortens sourcing cycle time.",
 };
 
 export default function RootLayout({
