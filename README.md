@@ -1,6 +1,6 @@
 # RFQ Quote Comparison AI
 
-RFQ Quote Comparison AI helps procurement teams compare 2–5 supplier quote PDFs, review extracted line items, normalize similar parts, and export a side-by-side recommendation.
+RFQ Quote Comparison AI helps procurement teams compare 2-5 supplier quote PDFs, review extracted line items, normalize similar parts, and export a side-by-side recommendation.
 
 ## What is included
 
@@ -75,7 +75,7 @@ To test the workflow without an API key, use **Use mock sample data** on the upl
 
 1. Sign up or log in.
 2. Open **New comparison** from the dashboard.
-3. Upload 2–5 PDF quotes or use mock mode.
+3. Upload 2-5 PDF quotes or use mock mode.
 4. Review and edit the extracted line items.
 5. Enter a comparison title and generate the result.
 6. Export to Excel or print to PDF.
